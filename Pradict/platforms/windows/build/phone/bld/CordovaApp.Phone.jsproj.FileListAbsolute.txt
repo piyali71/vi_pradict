@@ -1,4 +1,0 @@
-D:\phonegap\Pradict\platforms\windows\build\phone\Debug\AnyCPU\BatteryStatus.winmd
-D:\phonegap\Pradict\platforms\windows\build\phone\Debug\AnyCPU\GlobalizationProxy.winmd
-D:\phonegap\Pradict\platforms\windows\build\phone\Debug\AnyCPU\Vibration.winmd
-D:\phonegap\Pradict\platforms\windows\build\phone\bld\CordovaApp.Phone.jsprojResolveAssemblyReference.cache
